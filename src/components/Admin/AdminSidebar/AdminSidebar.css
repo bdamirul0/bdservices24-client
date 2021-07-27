@@ -1,0 +1,17 @@
+.sidebar-item a{
+    display: block;
+    font-size:25px;
+    padding:10px;
+    list-style: none;
+    text-decoration: none;
+    color:black;
+}
+.sidebar-item{
+    margin-top:80px;
+}
+.sidebar-item img{
+    width:25px;
+}
+.Sidebar{
+    height:100vh;
+}
